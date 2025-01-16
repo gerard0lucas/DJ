@@ -9219,7 +9219,7 @@ a.text-theme:hover,
 }
 
 .breadcumb-menu li:after {
-    content: "\f324";
+    content: "➤";
     position: relative;
     margin-left: 10px;
     font-weight: 500;
